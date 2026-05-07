@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "composite": true,
+    "declaration": true,
+    "emitDeclarationOnly": true
+  },
+  "include": ["vite.config.ts", "tailwind.config.ts", "postcss.config.js"]
+}
