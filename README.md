@@ -1,2 +1,4 @@
 # Note-taking-tool
-a easy note tool
+*a easy note tool*
+`````
+
